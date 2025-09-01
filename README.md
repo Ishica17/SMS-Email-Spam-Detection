@@ -6,7 +6,8 @@ This is a **Machine Learning web app** that classifies SMS messages as **Spam** 
 
 ## 📊 Model Performance  
 
-- **Accuracy:** `95.7%`  
+- **Accuracy:** `95.7%`
+- **Precision:** `1.0`
 
 ---
 
