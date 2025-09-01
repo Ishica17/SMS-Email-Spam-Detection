@@ -29,7 +29,7 @@ The model is trained on the **[SMS Spam Collection Dataset](https://www.kaggle.c
 4. **Run the web app**:
      streamlit run spam-detection.py
 
-### Once the server starts, a local URL something like ' http://localhost:8501 ' will appear in your terminal. Open it in your browser to use the app.
+*Once the server starts, a local URL something like ' http://localhost:8501 ' will appear in your terminal. Open it in your browser to use the app*
 
 ## 🛠️ Requirements
 
